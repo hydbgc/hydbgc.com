@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Mindspace social, 22nd Dec 2024. 291st meet-up"
+title:  "Meetup: 22nd Dec 2024, Mindspace social"
 date:   2024-12-21 18:19:43 +0530
 categories: meetup
+meetup_link: https://www.meetup.com/hydbgc/events/305144747/
 ---
 
 Register on [Meetup.com][meetup-link]
